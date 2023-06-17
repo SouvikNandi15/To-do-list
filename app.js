@@ -32,7 +32,7 @@ const item1 = new Item({
 });
 
 const item2 = new Item({
-  name: "Hit the + button to add a new item."
+  name: "Type & Hit the + button to add a new item."
 });
 
 const item3 = new Item({
